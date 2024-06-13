@@ -8,6 +8,7 @@
 - Update the message history outside the state and then add it to the state
   
 ### Notes
+- Using the OpenAi message format with llama 3 running on Groq.
 - Always start by drawing the graph, numbering the nodes, numbering the edges and naming all the functions.
 - Follow the workflow in the notebook from top to bottom.
 - Includes drawing the graph, numbering the nodes and numbering the edges - for easier reference.
