@@ -15,4 +15,5 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp2-My%20LangGrap
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp3-ReAct%20pattern%20w%20my%20langgraph%20workflow
 
 - Exp4 - Use keyword generation instead of a ReAct pattern (re-implement exp3)<br>
+(Good example of my custom LangGraph workflow)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp4-Use%20keyword%20generation%20instead%20of%20a%20ReAct%20pattern
