@@ -24,5 +24,5 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp5-Create%20exp2
 
 ## Lessons Learned
 
-- It's easy to build simple agentic workflows without using LangChain or LangGraph.
+- It's easy to build simple agentic workflows without using LangChain or LangGraph (see exp5).
 - It's a lot less code when LangGraph is not used.
