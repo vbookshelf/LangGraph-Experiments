@@ -17,3 +17,7 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp3-ReAct%20patte
 - Exp4 - Use keyword generation instead of a ReAct pattern (re-implement exp3)<br>
 (Good example of my custom LangGraph workflow)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp4-Use%20keyword%20generation%20instead%20of%20a%20ReAct%20pattern
+
+- Exp5 - Create the exp2 email responder system without using LangGraph<br>
+(My agentt workflow)<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp5-Create%20exp2%20email%20responder%20without%20using%20LangGraph
