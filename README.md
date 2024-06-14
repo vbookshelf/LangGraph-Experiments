@@ -21,3 +21,8 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp4-Use%20keyword
 - Exp5 - Create the exp2 email responder system without using LangGraph<br>
 (My agentt workflow)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp5-Create%20exp2%20email%20responder%20without%20using%20LangGraph
+
+## Lessons Learned
+
+- It's easy to build simple agentic workflows without using LangChain or LangGraph.
+- It's a lot less code when LangGraph is not used.
