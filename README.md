@@ -22,7 +22,13 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp4-Use%20keyword
 (My agentt workflow)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp5-Create%20exp2%20email%20responder%20without%20using%20LangGraph
 
+- Exp6 - Create ReAct pattern using my agentic function workflow<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp6-Create%20ReAct%20pattern%20using%20my%20agentic%20function%20workflow
+
+<br>
+
 ## Lessons Learned
 
 - It's easy to build simple agentic workflows without using LangChain or LangGraph (see exp5).
 - It's a lot less code when LangGraph is not used.
+- In a ReAct workflow the model can sometimes try to call all functions, that it needs to answer a question, at the sme time. It outputs a list of functions to be called.
