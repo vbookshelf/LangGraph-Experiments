@@ -8,3 +8,10 @@
 ### Notes
 - This system fails when the questions are not related to the functions that the model has access to.
 - The system can't handle simple input like "Hello. How are you?"
+
+## Resources
+
+- Deeplearning.Ai short course<br>
+AI Agents in LangGraph<br>
+(Implements the ReAct pattern in Python and LangGraph - Dog weights example)<br>
+https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
