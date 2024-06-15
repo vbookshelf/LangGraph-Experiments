@@ -23,6 +23,7 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp4-Use%20keyword
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp5-Create%20exp2%20email%20responder%20without%20using%20LangGraph
 
 - Exp6 - Create ReAct pattern using my agentic function workflow<br>
+  (Dog weights and calculations example)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp6-Create%20ReAct%20pattern%20using%20my%20agentic%20function%20workflow
 
 <br>
