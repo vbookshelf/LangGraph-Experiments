@@ -26,6 +26,10 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp5-Create%20exp2
   (Dog weights and calculations example)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp6-Create%20ReAct%20pattern%20using%20my%20agentic%20function%20workflow
 
+- Exp7 - Adding chat to exp6 React pattern using my agentic functions<br>
+  (Has a basic chat interface in the notebook - python user input with "while True" loop)<br>
+  https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp7-Adding%20chat%20to%20exp6%20React%20pattern%20using%20my%20agentic%20functions
+
 <br>
 
 ## Lessons Learned
