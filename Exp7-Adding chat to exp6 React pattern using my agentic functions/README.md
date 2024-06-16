@@ -2,7 +2,7 @@
 
 ### Objective
 - Add chat to an agent running a ReAct (Reason + Act) pattern
-- can chat with the agent.
+- User can chat with the agent.
 - The agent only does research (runs ReAct) when needed. If the message is simple (like "Hello") then the agent just responds to the message.
 - Use only agent functions i.e. don't use LangGraph.
   
@@ -11,6 +11,7 @@
 - The code includes a user input with a "while True" loop. This creates a chat interface in the notebook.
 - System message that makes this possible:
 ```
+
 chat_agent_system_message = """
 You are a helpful assistant.
 
