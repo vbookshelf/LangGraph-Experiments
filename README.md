@@ -30,6 +30,9 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp6-Create%20ReAc
   (Has a basic chat interface in the notebook - python user input with "while True" loop)<br>
   https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp7-Adding%20chat%20to%20exp6%20React%20pattern%20using%20my%20agentic%20functions
 
+- Exp8 - Create ReAct agent research assistant using gemini 1.5 flash api<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp8-Create%20ReAct%20agent%20using%20gemini%20flash%20api
+
 <br>
 
 ## Lessons Learned
