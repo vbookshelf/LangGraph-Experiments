@@ -1,4 +1,4 @@
-## Exp 8 - Create ReAct agent research assistant using gemini 1.5 flash api
+## Exp8 - Create ReAct agent research assistant using gemini 1.5 flash api
 
 ### Objective
 - Create a ReAct research assistant using the Gemini Flash API
