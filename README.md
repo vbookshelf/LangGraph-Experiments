@@ -33,6 +33,10 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp6-Create%20ReAc
 - Exp8 - Create ReAct agent research assistant using gemini 1.5 flash api<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp8-Create%20ReAct%20agent%20using%20gemini%20flash%20api
 
+- Exp9 - Semi autonomous ReAct research assistant with chat interface<br>
+(Uses the Gemini 1.5 Flash API)<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp9-Semi%20autonomous%20ReAct%20research%20assistant%20with%20chat%20interface
+
 <br>
 
 ## Lessons Learned
