@@ -1,5 +1,5 @@
 # LangGraph Experiments
-My experiments with LangGraph
+This started with experiments with LangGraph. It then evolved into other LLM agentic experiments.
 
 <br>
 
