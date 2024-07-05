@@ -40,6 +40,9 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp9-Semi%20autono
 - Exp10 - Crate a code generation agent system<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp10-Code%20generation%20agent%20system
 
+- Exp11 - Python - Create chat memory using summarization<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp11-%20Python%20-%20Create%20chat%20memory%20using%20summarization
+
 <br>
 
 ## Lessons Learned
