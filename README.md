@@ -43,6 +43,9 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp10-Code%20gener
 - Exp11 - Python - Create chat memory using summarization<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp11-%20Python%20-%20Create%20chat%20memory%20using%20summarization
 
+- Exp12 - JS - Basic javascript chat app with summarization memory<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp12-%20JS%20-%20Basic%20javascript%20chat%20app%20with%20summarization%20memory
+
 <br>
 
 ## Lessons Learned
