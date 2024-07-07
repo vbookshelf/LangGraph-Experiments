@@ -46,6 +46,9 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp11-%20Python%20
 - Exp12 - JS - Basic javascript chat app with summarization memory<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp12-%20JS%20-%20Basic%20javascript%20chat%20app%20with%20summarization%20memory
 
+- Exp13 - Create a simple Mixture of Agents (MoA) implementation using Groq<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp13-Simple-MoA-implementation-using-Groq
+
 <br>
 
 ## Lessons Learned
