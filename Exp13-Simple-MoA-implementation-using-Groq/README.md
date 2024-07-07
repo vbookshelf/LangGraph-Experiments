@@ -20,3 +20,7 @@ https://github.com/togethercomputer/MoA/tree/main
 - Mixture of Agents TURBO Tutorial 🚀 Better Than GPT4o AND Fast?!<br>
 (Matthew Berman)<br>
 https://www.youtube.com/watch?v=BKyxMreb3mk&t=604s
+
+- Mixture of Agents (MoA) Method Explained + Run Code Locally FREE<br>
+(Analytics Camp)<br>
+https://www.youtube.com/watch?v=4_iKxitIK90
