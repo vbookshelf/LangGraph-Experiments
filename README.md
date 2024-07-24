@@ -53,6 +53,9 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp13-Simple-MoA-i
 (The user chats with two agents at the same time.)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp14%20-%20Rev2_multi_agent_group_chat_with_state_dict_memory
 
+- Exp15 - Create a JS web app where the user chats with two agents at the same time<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp15%20-%20JS%20app%20with%20two%20agent%20chat
+
 <br>
 
 ## Lessons Learned
