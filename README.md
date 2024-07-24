@@ -50,10 +50,11 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp12-%20JS%20-%20
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp13-Simple-MoA-implementation-using-Groq
 
 - Exp14 - Create multi agent group chat with state dict memory<br>
-(The user chats with two agents at the same time.)<br>
+(The user chats with two agents at the same time. Written in Python.)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp14%20-%20Rev2_multi_agent_group_chat_with_state_dict_memory
 
 - Exp15 - Create a JS web app where the user chats with two agents at the same time<br>
+(Panel discussion: Are we living in a simulation?)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp15%20-%20JS%20app%20with%20two%20agent%20chat
 
 <br>
