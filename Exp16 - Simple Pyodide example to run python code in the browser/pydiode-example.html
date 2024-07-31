@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Python in Browser with Pandas</title>
+  <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+</head>
+<body>
+  <textarea id="python-code" rows="10" cols="30">
+import pandas as pd
+data = {'Name': ['John', 'Anna', 'Peter', 'Linda'],
+        'Age': [28, 24, 35, 32]}
+df = pd.DataFrame(data)
+df
+  </textarea>
+  <button onclick="runPythonCode()">Run</button>
+  <div id="output"></div>
+
+  <script>
+    let pyodide = null;
+
+    async function initializePyodide() {
+      if (!pyodide) {
+        pyodide = await loadPyodide({ indexURL: "https://cdn.jsdelivr.net/pyodide/v0.21.3/full/" });
+        await pyodide.loadPackage(['pandas']);
+      }
+    }
+
+    async function runPythonCode() {
+      await initializePyodide();
+      let code = document.getElementById("python-code").value;
+      try {
+        let result = pyodide.runPython(code);
+        document.getElementById("output").innerText = result.toString();
+      } catch (error) {
+        document.getElementById("output").innerText = error.toString();
+      }
+    }
+
+    // Initialize Pyodide and load packages once
+    initializePyodide();
+  </script>
+</body>
+</html>
+
