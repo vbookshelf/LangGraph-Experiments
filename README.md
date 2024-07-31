@@ -57,6 +57,9 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp14%20-%20Rev2_m
 (Panel discussion: Are we living in a simulation?)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp15%20-%20JS%20app%20with%20two%20agent%20chat
 
+- Exp16 - Simple Pyodide example to run python code in the browser<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp16%20-%20Simple%20Pyodide%20example%20to%20run%20python%20code%20in%20the%20browser
+
 <br>
 
 ## Lessons Learned
