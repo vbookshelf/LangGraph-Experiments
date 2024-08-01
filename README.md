@@ -60,6 +60,10 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp15%20-%20JS%20a
 - Exp16 - Simple Pyodide example to run python code in the browser<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp16%20-%20Simple%20Pyodide%20example%20to%20run%20python%20code%20in%20the%20browser
 
+- Exp17 - T-Bot PHP Thai and Spanish Practice Audio Chatbot<br>
+(Similar to the E-Bot English Practice Chatbot)<br>
+https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp17%20-%20T-Bot%20PHP%20Thai%20and%20Spanish%20Practice%20Audio%20Chatbot
+
 <br>
 
 ## Lessons Learned
