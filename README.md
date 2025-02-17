@@ -24,6 +24,7 @@ https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp5-Create%20exp2
 
 - Exp6 - Create ReAct pattern using my agentic function workflow<br>
   (Dog weights and calculations example)<br>
+  (Good simple starter example)<br>
 https://github.com/vbookshelf/LangGraph-Experiments/tree/main/Exp6-Create%20ReAct%20pattern%20using%20my%20agentic%20function%20workflow
 
 - Exp7 - Adding chat to exp6 React pattern using my agentic functions<br>
